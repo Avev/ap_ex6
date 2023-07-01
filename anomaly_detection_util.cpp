@@ -1,8 +1,4 @@
-/*
- * animaly_detection_util.cpp
- *
- * Author: Aviv 316266683
- */
+
 #include <math.h>
 #include "anomaly_detection_util.h"
 
